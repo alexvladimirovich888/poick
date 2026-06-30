@@ -1,0 +1,6 @@
+{
+  "name": "Experimental Search Platform",
+  "description": "A minimalist, premium pre-launch interface for an experimental research-focused search platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
